@@ -3,5 +3,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
---platform=linux/arm64_v7 whyour/qinglong:latest
+#--platform=linux/arm64_v7 whyour/qinglong:latest
 elasticsearch:7.17.24
