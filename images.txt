@@ -7,4 +7,4 @@
 elasticsearch:7.17.24
 --platform=linux/arm64 linuxserver/jellyfin:10.9.11
 --platform=linux/arm64 anmour/bncr
-whyour/qinglong
+whyour/qinglong:2.17.9
