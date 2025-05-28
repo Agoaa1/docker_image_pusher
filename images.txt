@@ -9,3 +9,4 @@ elasticsearch:7.17.24
 --platform=linux/arm64 anmour/bncr
 whyour/qinglong:latest
 icepage/aujc:latest
+--platform=linux/arm64_v8 icepage/aujc:latest
