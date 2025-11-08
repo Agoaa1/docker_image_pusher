@@ -15,3 +15,4 @@ anmour/bncr:3.0.9
 anmour/bncr:3.0.7
 anmour/bncr:3.0.0
 anmour/bncr:3.1.1
+anmour/bncr:3.1.2
