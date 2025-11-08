@@ -4,10 +4,11 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64_v7 whyour/qinglong:latest
-elasticsearch:7.17.24
---platform=linux/arm64 linuxserver/jellyfin:10.9.11
---platform=linux/arm64 anmour/bncr
+#elasticsearch:7.17.24
+#--platform=linux/arm64 linuxserver/jellyfin:10.9.11
+#--platform=linux/arm64 anmour/bncr
 whyour/qinglong:latest
 #icepage/aujc:latest
---platform=linux/arm64_v8 icepage/aujc:latest
-anmour/bncr:3.1.0
+#--platform=linux/arm64_v8 icepage/aujc:latest
+#anmour/bncr:3.1.0
+anmour/bncr
